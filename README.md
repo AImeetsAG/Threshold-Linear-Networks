@@ -4,7 +4,7 @@ Our brain is a dynamical system. There are approximately 100 billion neurons in 
 
 One of those models which explains memory is the threshold linear networks which are continuum based descendents of [Hopfield networks](https://en.wikipedia.org/wiki/Hopfield_network)
 
-The CTLN.ipynb file contains python implementations of the threshold linear networks studied in the following papers:
+The CTLN_colab.ipynb file contains python implementations of the threshold linear networks studied in the following papers:
 * [Morrison, Katherine & Degeratu, Anda & Itskov, Vladimir & Curto, Carina. (2016). Diversity of emergent dynamics in competitive threshold-linear networks: a preliminary report.](https://arxiv.org/abs/1605.04463)
 * [Carina Curto and Katherine Morrison. Graph rules for recurrent neural network dynamics: extended version.](https://arxiv.org/pdf/2301.12638.pdf)
 
