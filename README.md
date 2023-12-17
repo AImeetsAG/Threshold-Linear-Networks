@@ -9,3 +9,25 @@ The CTLN_colab.ipynb file contains python implementations of the threshold linea
 * [Carina Curto and Katherine Morrison. Graph rules for recurrent neural network dynamics: extended version.](https://arxiv.org/pdf/2301.12638.pdf)
 
 ![image](https://github.com/AImeetsAG/Threshold-Linear-Networks/assets/109251237/7c92c2b8-0e12-4718-a581-0ad125323c64)
+
+
+# Installation
+
+pip install https://github.com/AImeetsAG/Threshold-Linear-Networks-Computational-Neuroscience-.git/master
+
+or
+
+git clone https://github.com/AImeetsAG/Threshold-Linear-Networks-Computational-Neuroscience-.git
+
+then
+sudo python setup.py install
+
+# Example 
+Look at the example.ipynb files for implementations of all the functions including their descriptions.
+There is only one class that needs to be defined: graphtodynamics
+
+
+
+
+
+

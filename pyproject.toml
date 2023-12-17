@@ -1,0 +1,25 @@
+[project]
+name = "CTLN"
+version = "0.0.1"
+authors = [
+  { name="Abhinav Chand"},
+]
+description = "A python implementation of combinatorial threshold linear network"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/AImeetsAG/Threshold-Linear-Networks-Computational-Neuroscience-"
+Issues = "https://github.com/AImeetsAG/Threshold-Linear-Networks-Computational-Neuroscience-/issues"
+
+[build-system]
+requires= ["setuptools", "wheel"]
+build-backend= "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where=['src']
