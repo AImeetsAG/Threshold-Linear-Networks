@@ -12,8 +12,9 @@ The CTLN_colab.ipynb file contains python implementations of the threshold linea
 
 
 # Installation
-
-pip install https://github.com/AImeetsAG/Threshold-Linear-Networks-Computational-Neuroscience-.git/master
+```shell
+pip install git+https://github.com/AImeetsAG/Threshold-Linear-Networks-Computational-Neuroscience-.git
+```
 
 or
 
