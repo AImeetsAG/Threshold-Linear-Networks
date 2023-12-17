@@ -17,10 +17,10 @@ pip install https://github.com/AImeetsAG/Threshold-Linear-Networks-Computational
 
 or
 
+```shell
 git clone https://github.com/AImeetsAG/Threshold-Linear-Networks-Computational-Neuroscience-.git
-
-then
 sudo python setup.py install
+```
 
 # Example 
 Look at the example.ipynb files for implementations of all the functions including their descriptions.
